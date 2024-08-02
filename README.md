@@ -97,6 +97,43 @@
     
 </p>
 
+
+### Core
+
+<p align="left">
+    <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
+        width="36"
+        height="36"
+        alt="Git"
+        title="Git"
+    />
+    &nbsp;
+    <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg"
+        width="36"
+        height="36"
+        alt="GNU Bash"
+        title="Bash Scripting"
+    />
+    &nbsp;
+    <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg"
+        width="36"
+        height="36"
+        alt="C"
+        title="C Programming Language"
+    />
+    &nbsp;
+    <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
+        width="36"
+        height="36"
+        alt="Docker"
+        title="Docker"
+    />
+</p>
+
 ### Tech Stack
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
