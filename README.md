@@ -21,7 +21,7 @@
 
 ## ✉️ Connect with Me
 
-<a href="https://linkedin.com/in/mostafa-elzoghbey-9948b1289/" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Elzoghbey-0077B5?style=for-the-badge&logo=Linkedin&logoColor=black"/></a>     
+<a href="https://linkedin.com/in/mostafa-elzoghbey-9948b1289/" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Elzoghbey-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>     
 <a href="https://t.me/Mostafa_elzoghbey" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Elzoghbey-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>        
 <a href="mailto:mostafaelzoghbeywork1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Elzoghbey-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>         
 
