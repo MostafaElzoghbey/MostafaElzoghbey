@@ -12,11 +12,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Always%20learning%20new%20things;Back-End%20developer;&font=Fira%20Code&center=true&width=440&height=45&color=#36BCF7FF&vCenter=true&size=22"></a>
 </p> 
 
-- ⚡ I'm a Software Engineer and Back-End team lead at REACH.
+- ⚡ I'm a Software Engineer and Back-End developer.
 - 👨‍💻 As a CS graduate, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Django, DRF, Node.js, and Express.js, or anything related to Back-End.
-- 🚀 I'm currently working on [Graston](https://github.com/REACH-dealing/Graston-Backend).
-- 🤝 I'm open to collaborating on interesting projects
+- 💬 Ask me about my experience with Django, DRF, or anything related to Back-End.
+- 🚀 I'm currently working on personal projects.
+- 🤝 I'm open to collaborating on interesting projects.
 
 
 ## ✉️ Connect with Me
